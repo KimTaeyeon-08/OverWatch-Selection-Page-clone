@@ -1,6 +1,6 @@
 # OverWatch-Selection-Page-clone
 ## Description 
-#### I made OverWatch Character Selection Page with css, html
+#### OverWatch Character Selection Page with css, html
 #### All the Characters , backgrounds, logo are from https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png, https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png,https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg
 
 ## Video
